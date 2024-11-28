@@ -76,12 +76,6 @@ input {
     font-size: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.baikot span{
-  text-align: center;
-align-items: center;
-
-}
-
 
 
 .cs{
@@ -105,8 +99,7 @@ align-items: center;
     display: flex;
     justify-content: center;  
     align-items: center;    
-    margin-left: 1800px;
-    padding-left: 60px;
+    padding-left: 10px;
     padding-top: 35px;
     margin-bottom: 20px;
     font-size: 25px;
